@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="my1">
+    <file>logo.png</file>
+    <file>Screenshot 2023-10-12 103935.png</file>
+  </qresource>
+</RCC>

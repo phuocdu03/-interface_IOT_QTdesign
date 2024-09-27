@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="my3">
+    <file>fan_off.png</file>
+    <file>fan_running.png</file>
+  </qresource>
+</RCC>
